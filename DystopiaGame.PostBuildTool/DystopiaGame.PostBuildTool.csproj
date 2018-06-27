@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{EBC84189-6A42-4D9C-BF15-55CD92873381}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>DystopiaPostBuild</RootNamespace>
-    <AssemblyName>DystopiaPostBuild</AssemblyName>
+    <RootNamespace>DystopiaGame.PostBuildTool</RootNamespace>
+    <AssemblyName>DystopiaGame.PostBuildTool</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
